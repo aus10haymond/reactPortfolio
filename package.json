@@ -9,7 +9,10 @@
     "if-env": "^1.0.4",
     "mongoose": "^5.9.9"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "concurrently": "^4.1.0",
+    "nodemon": "^1.18.7"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
