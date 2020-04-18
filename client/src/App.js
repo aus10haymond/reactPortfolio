@@ -10,11 +10,25 @@ function App() {
   return (
     <Router>
       <div className="container">
-        <NavTabs />
         <Route exact path="/" component={Home} />
-        <Route exact path="/about" component={About} />
-        <Route exact path="/projects" component={Projects} />
-        <Route exact path="/contact" component={Contact} />
+        <Route exact path="/about" render= {props =>
+          <div>
+            <NavTabs />
+            <About />
+          </div>
+        } />
+        <Route exact path="/projects" render= {props =>
+          <div>
+            <NavTabs />
+            <Projects />
+          </div>
+        } />
+        <Route exact path="/contact" render= {props =>
+          <div>
+            <NavTabs />
+            <Contact />
+          </div>
+        } />
       </div>
     </Router>
   );

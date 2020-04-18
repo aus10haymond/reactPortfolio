@@ -1,0 +1,10 @@
+.card {
+    opacity: .75;
+    font-weight: bolder;
+    font-family: monospace;
+    background-color: #CCF1FE;
+}
+
+.card-title {
+    padding-left: 3%;
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "site": "GitHub",
+        "url": "https://github.com/ahaymond-dev",
+        "logo": "",
+        "target": "_blank",
+        "id": 0
+    
+    },
+    {
+        "site": "Linkedin",
+        "url": "https://www.linkedin.com/in/austen-haymond-83176792/",
+        "logo": "",
+        "target": "_blank",
+        "id": 1
+    },
+    {
+        "site": "Email",
+        "url": "mailto:ahaymon17@gmail.com?Subject=Hello",
+        "logo": "",
+        "target": "_top",
+        "id": 2
+    },
+    {
+        "site": "Phone",
+        "url": "tel:602-301-2522",
+        "logo": "",
+        "id": 3
+    }
+]
