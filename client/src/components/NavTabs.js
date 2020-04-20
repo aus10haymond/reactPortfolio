@@ -6,19 +6,19 @@ function NavTabs() {
     const location = useLocation();
 
     return (
-        <ul className="nav nav-tabs">
+        <ul className="nav justify-content-end">
             <li className="nav-item">
-                <Link to="/about" className={location.pathname === "/about" ? "nav-link active" : "nav-link"}>
+                <Link to="/about" className={location.pathname === "/about" ? "nav-link active btn btn-dark" : "nav-link"}>
                     ABOUT
                 </Link>
             </li>
             <li className="nav-item">
-                <Link to="/projects" className={location.pathname === "/projects" ? "nav-link active" : "nav-link"}>
+                <Link to="/projects" className={location.pathname === "/projects" ? "nav-link active btn btn-dark" : "nav-link"}>
                     PROJECTS
                 </Link>
             </li>
             <li className="nav-item">
-                <Link to="/contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
+                <Link to="/contact" className={location.pathname === "/contact" ? "nav-link active btn btn-dark" : "nav-link"}>
                     CONTACT
                 </Link>
             </li>

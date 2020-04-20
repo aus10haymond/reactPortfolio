@@ -1,19 +1,17 @@
-.nav-item {
+.nav {
     background-color: #CCF1FE;
     opacity: .7;
-    font-family: monospace;
-    font-weight: bold;
 }
 
 .nav-link {
     color: black;
 }
 
-.nav-link :hover {
+/* .nav-link :hover {
     color: black;
 }
 
 .nav-link :active {
     color: white;
     background-color: black;
-}
+} */
