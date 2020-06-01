@@ -1,0 +1,30 @@
+[
+    {
+        "site": "NXT LVL DGTL",
+        "url": "http://nxtlvl-dgtl.com/",
+        "target": "_blank",
+        "description": "This is a business started by my wife and I that helps small businesses start or boost their online presence.",
+        "id": 0
+    },
+    {
+        "site": "TableScraps App",
+        "url": "https://tablescraps.herokuapp.com/",
+        "target": "_blank",
+        "description": "My first full stack React project using Bootstrap, an Express server and a MongoDB database.",
+        "id": 1
+    },
+    {
+        "site": "Dad Facts",
+        "url": "https://ahaymond-dev.github.io/The_Real_Project_1/",
+        "target": "_blank",
+        "description": "My first full stack project, making use of Bootstrap, and Express server and API calls.",
+        "id": 2
+    },
+    {
+        "site": "Taco's Landscaping",
+        "url": "http://tacolandscaping.herokuapp.com/",
+        "target": "_blank",
+        "description": "This is a website that I am building for a family friend who has a lanscaping business that they are starting.",
+        "id": 3
+    }
+]
