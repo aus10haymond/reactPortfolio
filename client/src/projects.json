@@ -1,7 +1,7 @@
 [
     {
         "site": "NXT LVL DGTL",
-        "url": "http://nxtlvl-dgtl.com/",
+        "url": "https://www.nxtlvldgtl.com/",
         "target": "_blank",
         "description": "This is a business started by my wife and I that helps small businesses start or boost their online presence.",
         "id": 0
@@ -14,17 +14,17 @@
         "id": 1
     },
     {
-        "site": "Dad Facts",
-        "url": "https://ahaymond-dev.github.io/The_Real_Project_1/",
-        "target": "_blank",
-        "description": "My first full stack project, making use of Bootstrap, and Express server and API calls.",
-        "id": 2
-    },
-    {
         "site": "Taco's Landscaping",
         "url": "http://tacolandscaping.herokuapp.com/",
         "target": "_blank",
         "description": "This is a website that I am building for a family friend who has a lanscaping business that they are starting.",
+        "id": 2
+    },
+    {
+        "site": "Coin_Bot",
+        "url": "https://discord.com/api/oauth2/authorize?client_id=878670573713125437&permissions=34359740416&scope=bot",
+        "target": "_blank",
+        "description": "A discord bot that I wrote which uses the Coinlayer API to give the current prices of cryptocurrencies like Bitcoin, Ethereum, Cardano, and Dogecoin. Hit the button below to add the bot to your Discord server.",
         "id": 3
     }
 ]
